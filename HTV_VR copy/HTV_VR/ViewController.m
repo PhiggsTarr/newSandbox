@@ -24,4 +24,18 @@
     // Dispose of any resources that can be recreated.
 }
 
+
+-(void)simpleIfStatement{
+    int numberFour = 4;
+    
+    if (numberFour == 4) {
+        numberFour++;
+        
+    }
+    
+    
+    
+    
+}
+
 @end
