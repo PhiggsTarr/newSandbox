@@ -3,7 +3,7 @@
 //  HTV_VR
 //
 //  Created by Gboinyee Tarr on 6/9/16.
-//  Copyright © 2016 Kevin Tarr. All rights reserved.
+//  Copyright © 201 6 Kevin Tarr. All rights reserved.
 //
 
 #import "AppDelegate.h"
